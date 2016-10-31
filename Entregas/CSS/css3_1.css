@@ -1,0 +1,35 @@
+body {
+	background-color: blue;
+}
+
+#sandbox {
+	color: black;
+	font-size: 16px;
+	font-family: “goudy-bookletter-1911-1”, “goudy-bookletter-1911-2”, “Baskerville”, “Georgia”, serif;
+	border: 1px solid rgb(21,11,11);
+	overflow: hidden;
+	margin: 40px 0 0 30px;
+	padding: 20px;
+	width: 440px;
+	z-index: 2;	
+}
+
+h2 {
+	margin: 0 0 20px 0;
+	font-size: 56px;
+	word-spacing: 2px;
+}
+
+abbr {
+	cursor: help;
+	font-size: 130%;
+	color: #ff2166;
+	border-bottom: 1px dotted #888;
+}
+
+p {
+	font-size: 30px;
+	line-height: 50px;
+	margin: 0px;
+	width: auto;
+}

@@ -1,0 +1,42 @@
+body {
+	background-color: blue;
+}
+
+#sandbox {
+	color: black;
+	font-size: 16px;
+	font-family: “goudy-bookletter-1911-1”, “goudy-bookletter-1911-2”, “Baskerville”, “Georgia”, serif;
+	border: 3px solid rgb(21,11,11);
+	border-radius: 15px 15px 15px 15px;
+	-moz-border-radius: 15px 15px 15px 15px;
+	overflow: hidden;
+	margin: 40px 0 0 30px;
+	padding: 20px;
+	width: 440px;
+	z-index: 2;	
+}
+
+h2 {
+	margin: 0 0 20px 0;
+	font-size: 56px;
+	word-spacing: 2px;
+}
+
+abbr {
+	cursor: help;
+	font-size: 130%;
+	color: #ff2166;
+	border-bottom: 1px dotted #888;
+	text-shadow: 1px 1px #333;
+	box-shadow: 20px 20px 10px 0 white;
+	background: linear-gradient(#444444,#999999);
+)
+	
+}
+
+p {
+	font-size: 30px;
+	line-height: 50px;
+	margin: 0px;
+	width: auto;
+}
