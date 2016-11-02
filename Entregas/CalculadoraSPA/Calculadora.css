@@ -40,6 +40,7 @@
 	text-align: center;
     text-decoration: none;
     text-shadow:#000 0px -1px 0px;
+    box-shadow: 2px 2px 5px #999;
 }
 
 #numero0, #igual {
